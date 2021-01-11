@@ -19,4 +19,4 @@ for filename in os.listdir('./cogs'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
 token = os.environ.get("token")
-client.run('Nzk3MjE5MjkwMzE4NzY2MDgx.X_jSUg.08cIazAsiDbWJPeNrxSYks-5FMU') 
+client.run('Nzk3MjE5MjkwMzE4NzY2MDgx.X_jSUg.w1GQZRAxpnsqzOK03NGELt2tkU8') 
